@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Anna Cooban, CNN Business",
+    "title": "Gas prices tumble below $4 for the first time in months - CNN",
+    "description": "Drivers in the United States can breathe a small sigh of relief — average gas prices have dropped below $4 a gallon for the first time since March.",
+    "url": "https://www.cnn.com/2022/08/11/energy/gas-prices-4-gallon/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220811040839-01-gas-prices-us-file-super-tease.jpg",
+    "publishedAt": "2022-08-11T14:13:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Sanofi and GSK Lead $30 Billion Rout as Zantac Worries Mount - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=09af6b25-1986-11ed-bbfe-724d4f484567&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0xMS9zYW5vZmktYW5kLWdzay1sZWFkLTMwLWJpbGxpb24tcm91dC1hcy16YW50YWMtd29ycmllcy1tb3VudA==",
+    "urlToImage": null,
+    "publishedAt": "2022-08-11T13:59:52Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Megan Henney",
+    "title": "Jobless claims rise to highest level in 2022 - Fox Business",
+    "description": "New applications for unemployment benefits ticked higher last week, evidence that the historically tight labor market is starting to loosen amid record-high inflation.",
+    "url": "https://www.foxbusiness.com/economy/jobless-claims-rise-highest-level-2022",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/Private-sector-jobs.png?ve=1&tl=1",
+    "publishedAt": "2022-08-11T13:04:37Z",
+    "content": "The number of Americans filing for unemployment benefits\r\n ticked higher last week, hitting the highest level in nine months — the latest sign that the historically tight labor market is starting to … [+1856 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jeff Cox",
+    "title": "Wholesale inflation fell 0.5% in July, in another sign that price increases are slowing - CNBC",
+    "description": "The producer price index, which gauges the prices received for final demand products, fell 0.5% from June.",
+    "url": "https://www.cnbc.com/2022/08/11/producer-price-index-july-2022-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107102382-1660219062688-gettyimages-1414130654-vcg111395895994.jpeg?v=1660219118&w=1920&h=1080",
+    "publishedAt": "2022-08-11T12:39:06Z",
+    "content": "Wholesale prices fell in July for the first time in two years as a plunge in energy prices slowed the pace of inflation, the Bureau of Labor Statistics reported Thursday.\r\nThe producer price index, w… [+2461 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "1 person dead after fight at GM's Orion Assembly plant: Here's what happened - Detroit Free Press",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9tb25leS9jYXJzL2dlbmVyYWwtbW90b3JzLzIwMjIvMDgvMTEvZ20tZmlnaHQtb3Jpb24tYXNzZW1ibHktcGxhbnQtZGVhdGgvMTAyOTUyMDgwMDIv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-08-11T12:36:55Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jack Stebbins",
+    "title": "U.S. Postal Service to temporarily hike prices for holiday season - CNBC",
+    "description": "The United States Postal Service filed a notice Wednesday of a temporary price hike for the 2022 peak holiday season.",
+    "url": "https://www.cnbc.com/2022/08/11/us-postal-service-to-temporarily-hike-prices-for-holiday-season.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092144-1658417042875-gettyimages-1242027251-PWeaver-USPS-01.jpeg?v=1658417159&w=1920&h=1080",
+    "publishedAt": "2022-08-11T12:21:01Z",
+    "content": "The U.S. Postal Service filed a notice Wednesday of a temporary price hike for this year's peak holiday season, which it said would help cover extra handling costs.\r\nThe agency said the adjustment wa… [+781 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Connor Smith",
+    "title": "Disney Stock Rallies on Strong Earnings and Disney+ Price Hike - Barron's",
+    "description": "Shares of the media and entertainment giant jumped after the company reported better-than-expected results for its latest quarter.",
+    "url": "https://www.barrons.com/articles/disney-earnings-stock-price-plus-price-increase-51660150134",
+    "urlToImage": "https://images.barrons.com/im-601138/social",
+    "publishedAt": "2022-08-11T12:11:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Tim Mullaney",
+    "title": "The inflation argument that predicts another good decade for technology investing - CNBC",
+    "description": "The Fed's interest rate hikes crushed tech stocks, but the longer-term truth is that an inflationary period for the economy is one in which technology wins.",
+    "url": "https://www.cnbc.com/2022/08/11/the-inflation-argument-calling-another-good-decade-for-tech-investing.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106990773-1639736725021-image1.jpeg?v=1639765213&w=1920&h=1080",
+    "publishedAt": "2022-08-11T12:00:01Z",
+    "content": "TuSimple, partly owned by UPS, makes self-driving trucks, a technology that may be among the innovations to help lower longer-run inflation in the transport sector.\r\nAs inflation keeps flirting with … [+7805 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Peter Champelli",
+    "title": "New York City Rents Hit Record Highs Amid Nationwide Housing-Price Increases - The Wall Street Journal",
+    "description": "Where would you pay over $4,000 a month for a one bedroom? In 20 of New York City’s neighborhoods.",
+    "url": "https://www.wsj.com/articles/new-york-city-rents-hit-record-highs-amid-nationwide-housing-price-increases-11660219200",
+    "urlToImage": "https://images.wsj.net/im-599731/social",
+    "publishedAt": "2022-08-11T12:00:00Z",
+    "content": "New York City rents hit an all-time high in June, reaching $3,500 a month as prices skyrocket from pandemic lows. \r\nRents are up in many cities across the U.S., but New York Citys recent rise is outp… [+307 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Catherine Thorbecke, CNN Business",
+    "title": "It didn't take long for Meta's new chatbot to say something offensive - CNN",
+    "description": "Meta's new chatbot can convincingly mimic how humans speak on the internet — for better and worse.",
+    "url": "https://www.cnn.com/2022/08/11/tech/meta-chatbot-blenderbot/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220810122639-meta-facebook-headquarters-file-super-tease.jpeg",
+    "publishedAt": "2022-08-11T11:48:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Lee Brown",
+    "title": "Whole Foods CEO John Mackey 'concerned' that 'socialists are taking over' - New York Post ",
+    "description": "Whole Foods’ exiting CEO, John Mackey, has said he is “deeply concerned” that “socialists are taking over” the country.",
+    "url": "https://nypost.com/2022/08/11/whole-foods-ceo-john-mackey-socialists-are-taking-over/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/whole-foods-ceo-socialists-takeover-comp-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-08-11T11:32:00Z",
+    "content": "Whole Foods co-founder and exiting CEO John Mackey has said he is “deeply concerned” that “socialists are taking over” the country.\r\n“They’re marching through the institutions — they’re taking everyt… [+2392 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Mike Calia",
+    "title": "5 things to know before the stock market opens Thursday - CNBC",
+    "description": "Here are the most important news items that investors need to start their trading day.",
+    "url": "https://www.cnbc.com/2022/08/11/5-things-to-know-before-the-stock-market-opens-thursday-august-11.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107077161-1655403546134-GettyImages-1271956803.jpg?v=1655403628&w=1920&h=1080",
+    "publishedAt": "2022-08-11T11:31:53Z",
+    "content": "Traders on the floor of the NYSE, Aug. 8, 2022.\r\nHere are the most important news items that investors need to start their trading day:\r\n1. Stock futures are up\r\nU.S. markets on Thursday were set to … [+4221 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CoinDesk"
+    },
+    "author": "Will Canny",
+    "title": "JPMorgan: Ethereum Miners Face an Abrupt Change Following the Merge - CoinDesk",
+    "description": "Ethereum Classic miners are likely to be among the main beneficiaries of the shift to proof-of-stake validation, the bank said.",
+    "url": "https://www.coindesk.com/tech/2022/08/11/jpmorgan-ethereum-miners-face-an-abrupt-change-following-the-merge/",
+    "urlToImage": "https://www.coindesk.com/resizer/s8ezvDPHfPVXoO1MFn6JHNMRsec=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XCFGOLAOSJB2FJBKSMUPWJESNM.JPG",
+    "publishedAt": "2022-08-11T11:27:00Z",
+    "content": "Ethereum miners are facing an abrupt change after the network moves to a proof-of-stake (PoS) consensus mechanism from a proof-of-work (PoW) system and their role effectively ends, forcing them to se… [+1995 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Explainer: How will SoftBank cut its stake in Alibaba without selling shares? - Reuters",
+    "description": "SoftBank Group Corp <a href=\"https://www.reuters.com/companies/9984.T\" target=\"_blank\">(9984.T)</a> is set to post a gain of $34.1 billion by reducing its stake in Alibaba Group Holding <a href=\"https://www.reuters.com/companies/9988.HK\" target=\"_blank\">(9988…",
+    "url": "https://www.reuters.com/business/finance/how-will-softbank-cut-its-stake-alibaba-without-selling-shares-2022-08-11/",
+    "urlToImage": "https://www.reuters.com/resizer/zuMRWNtcpYz1EX5fEZu1D0msJbc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YF6UI6R34ZJNFMRKSJ65A3S42Y.jpg",
+    "publishedAt": "2022-08-11T10:59:00Z",
+    "content": "NEW YORK, Aug 10 (Reuters) - SoftBank Group Corp (9984.T) is set to post a gain of $34.1 billion by reducing its stake in Alibaba Group Holding (9988.HK) from 23.7% to 14.6%. read more \r\nBut the Japa… [+2445 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Lauren Thomas",
+    "title": "Warby Parker slashes sales outlook for the year as loss widens - CNBC",
+    "description": "Warby Parker on Thursday joined the slew of retailers that have cut their financial forecasts for the year.",
+    "url": "https://www.cnbc.com/2022/08/11/warby-parker-wrby-reports-q2-2022-losses.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104112552-GettyImages-176601623.jpg?v=1660138441&w=1920&h=1080",
+    "publishedAt": "2022-08-11T10:54:59Z",
+    "content": "Warby Parker on Thursday joined the slew of retailers that have cut their financial forecasts for the year, even as it reported a narrower-than-expected loss in its fiscal second quarter and sales in… [+3149 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Fred Lambert",
+    "title": "Ford CEO calls out Tesla’s Elon Musk over electric pickup lead - Electrek.co",
+    "description": "Ford CEO Jim Farley has called out Tesla CEO Elon Musk over the Dearborn, Michigan-based automaker’s lead in electric pickup trucks. Musk responded. Do we have a little friendly competition in the electric pickup market? In the auto industry, or any competiti…",
+    "url": "https://electrek.co/2022/08/11/ford-ceo-calls-out-tesla-elon-musk-electric-pickup-lead/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/11/Tesla-Cybertruck-vs-Ford-F150-1-2-e1574880871925.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-08-11T10:32:00Z",
+    "content": "Ford CEO Jim Farley has called out Tesla CEO Elon Musk over the Dearborn, Michigan-based automaker’s lead in electric pickup trucks. \r\nMusk responded. Do we have a little friendly competition in the … [+3086 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Drive"
+    },
+    "author": null,
+    "title": "2023 Ford Bronco Heritage Editions Get Retro White Roof, 35-Inch Tires - The Drive",
+    "description": "The 2023 Ford Bronco Heritage Editions look rightly retro thanks to their white roofs, big tires, and awesome side stripes.",
+    "url": "https://www.thedrive.com/news/2023-ford-bronco-heritage-editions-get-retro-white-roof-35-inch-tires#article",
+    "urlToImage": "https://www.thedrive.com/uploads/2022/08/11/Bronco-Heritage-Edition-Hero-1.jpg?auto=webp",
+    "publishedAt": "2022-08-11T10:05:13Z",
+    "content": "The new Ford Bronco has been a throwback from the get-go. Its styling is directly influenced in more than a few ways by the 4x4's first generation, and that's only more true on the new-for-2023 Herit… [+2688 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bitcoinist"
+    },
+    "author": null,
+    "title": "The Next Crypto with Potential to Pump Like Shiba in 2022 | Bitcoinist.com - Bitcoinist",
+    "description": "Meme coins were one of the hottest sectors in crypto during 2021. This has led Investors everywhere to look for a new cryptocurrency with potential like Shiba",
+    "url": "https://bitcoinist.com/the-next-crypto-with-potential-to-pump-like-shiba-in-2022/",
+    "urlToImage": "https://bitcoinist.com/wp-content/uploads/2022/08/Picture323.png",
+    "publishedAt": "2022-08-11T09:51:04Z",
+    "content": "Meme coins were one of the hottest sectors in crypto during 2021. This has led Investors everywhere to look for a new cryptocurrency with potential like Shiba Inu and weve found it.\r\nDuring this guid… [+8013 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Alex Fitzpatrick",
+    "title": "IRA has tax breaks, rebates for modernizing homes - Axios",
+    "description": "The Democrats' climate bill has tax breaks for homeowners looking to modernize",
+    "url": "https://www.axios.com/2022/08/11/ira-tax-breaks-rebates",
+    "urlToImage": "https://images.axios.com/W9ZxEdRTUWHvsoL_13nu_7JX8rU=/0x0:1920x1080/1366x768/2022/08/10/1660170032327.jpg",
+    "publishedAt": "2022-08-11T09:30:11Z",
+    "content": "Homeowners interested in adding rooftop solar panels, installing heat pumps and otherwise green-ifying their houses have plenty to like in the big climate, health and tax package likely to pass Congr… [+3654 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Decrypt"
+    },
+    "author": "Sander Lutz",
+    "title": "Did The US Government Just Declare War on Crypto? - Decrypt",
+    "description": "Experts assess the implications of the Treasury Department’s sanctioning of privacy protocol Tornado Cash earlier this week.",
+    "url": "https://decrypt.co/107230/did-the-us-government-just-declare-war-crypto",
+    "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/crypto-us-government-gID_5.jpg",
+    "publishedAt": "2022-08-11T09:06:46Z",
+    "content": "On Monday, the U.S. Treasury Department added Ethereum coin mixer Tornado Cash, and a slew of addresses associated with the service, to its Specially Designated Nationals lista classification typical… [+9360 chars]"
+    }
+    ]
+    }
